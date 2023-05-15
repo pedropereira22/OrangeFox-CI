@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Device
+# Device 
 export FOX_BRANCH="fox_12.1"
 export DT_LINK="https://github.com/dkpost3/device_xiaomi_lisa-twrp.git -b Android-13-MIUI"
 
